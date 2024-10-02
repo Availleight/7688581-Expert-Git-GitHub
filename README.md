@@ -20,7 +20,7 @@ A définir
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
 
-J'essaie de faire une modif en local
+Test sur Github pour resoudre les conflits
 
 ```
 A définir
